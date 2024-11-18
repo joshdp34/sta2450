@@ -1,5 +1,8 @@
 
 def calculate(num1, num2):
+    """
+    a calculator
+    """
 
     total = num1 + num2
     diff = num1 - num2
